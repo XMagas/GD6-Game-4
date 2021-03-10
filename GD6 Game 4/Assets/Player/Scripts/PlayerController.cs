@@ -11,6 +11,11 @@ public class PlayerController : MonoBehaviour
     public GameObject RainBullet;
 
     public Transform RainPosition;
+
+    public Rigidbody2D rb;
+
+    
+    
     
 
     // Start is called before the first frame update
